@@ -6,27 +6,45 @@ Pick-a-Pick is a small application to pick from selections of pictures. The user
 
 ### As a Person with a Speech Disability (and/or Cognitive, Physical, etc. Disability)
 ```
-I want to be able to see a page with images that is simple to understand and free of distraction.
-I want to touch an image and have its title be spoken aloud
-To have audible feedback
-So I know what this image is supposed to be representing in this context
-So I can communicate to someone further away
-I want the screen to stay constant and not change away from the page if I am not precise with my movements.
+When I see a page with images.
+Then I am able to understand it easily, free of distraction.
+
+When I touch an image.
+Then the title is spoken aloud.
+
+When a title is spoken aloud through its speech mechanics.
+Then I know what the image is representing in context.
+
+When I use the web application on a touch screen device.
+Then I am able to use the screen consistently without it loosing focus if my movements were not precise.
 ```
 
 
 ### As an Educator
-``` I want to be able to quickly make a page with images or symbols to present to a student.
-I want to utilize an image search engine to choose an image to go in each card.
-I want to be able to save pages I’ve made to open later.
-I don’t want to spend a lot of time learning how to use a new web app.
-When presenting a page to a student, I don’t want them to be able to mess it up.
-I want this app to be functional on a touch-screen device, such as an iPad or Smartboard.
-For each image card
-I want to add a title that will be spoken aloud
-I want to be able to type in image search terms and select a particular image
-I want to be able to add an image card to a page that acts as a heading, for a question or start of a sentence.
-I want to have a homepage that displays multiple ready-made and custom pages, to choose from to deploy in different circumstances.
+``` 
+When I open the web application.
+Then I am able to quickly produce a viable page, with images or symbols to present to my student(s).
+
+When I utilize the search functionality.
+Then I am able to choose an image for a card.
+
+When I have finished creating my image-speech deck.
+Then I am able to save the page for future use.
+
+When I need to generate an image-speech deck quickly.
+Then I am able to use one of the default templates with easy to learn mechanics.
+
+When I am presenting this one of the pages to a student.
+Then they are not capable of messing up the layout.
+
+When I utilize this web application.
+Then I am able to have it translate well on sources other than desktops, such as tablets or smart-boards.
+
+When I generate an image card on search.
+Then I am able to add a title and search term regarding the specific image.
+
+When I open the homepage.
+Then I am able to display multiple ready-made custom pages to choose from.
 ```
 
 ## Process
